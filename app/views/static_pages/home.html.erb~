@@ -1,7 +1,5 @@
-<%provide(:title, 'HOME')%>
+
 <h1>Welcome to the league of Draven!</h1>
-<p>
-Yaaaaaaay
-<a href="about.html"> about </a>
-<a href="help.html"> help </a>
-</p>
+<p>Yaaaaaaay</p>
+<p><a href="about.html"> about </a></p>
+<p><a href="help.html"> help </a></p>
