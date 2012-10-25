@@ -1,0 +1,11 @@
+<%provide(:title, 'HELP')%>
+<html>
+  <head>
+    <title>Sample aplication | <%= yield(:title)%></title>
+  </head>
+  <body>
+    <h1>HELP!</h1>
+    <p>I need somebody, not just everybody.</p>
+    <a href="home.html"> home </a>
+  </body>
+<html>
